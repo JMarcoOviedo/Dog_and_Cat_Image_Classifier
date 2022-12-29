@@ -11,3 +11,6 @@ For this project, I built a Convolution Neural Network to identify whether an im
 I was able to get the model to 84% accuracy after constructing the CNN which may be increased with additional training data.
 
 
+<img src="https://github.com/JMarcoOviedo/Dog_and_Cat_Image_Classifier/blob/main/images/Cnn1.png" width="350" height="350" />
+
+<img src="https://github.com/JMarcoOviedo/Dog_and_Cat_Image_Classifier/blob/main/images/Cnn2.png" width="350" height="350" />
