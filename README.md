@@ -1,6 +1,6 @@
 # Dog_and_Cat_Image_Classifier
 
-#Code and Packages Used
+# Code and Packages Used
 Python Version: 3.9 Packages: NumPy, Matplotlib, TensorFlow, Keras, Seaborn
 
 
